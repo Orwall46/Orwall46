@@ -3,7 +3,7 @@
 - 🌱 My Stack is Python, PostgreSQL, MySQL, Docker, asyncio, aiohttps,
       gunicorn, nginx, daphne, redis, Djnago, DRF, 
       and some HTML, JS, CSS...
-- 📫 Our Project is ArmAuto.AM
+- 📫 My Project is www.armauto.am
 
 <!---
 Orwall46/Orwall46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
