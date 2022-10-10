@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Orwall46
 - 👀 I’m 28 y.o. mastermind from Armenia
 - 🌱 My Stack is Python, PostgreSQL, MySQL, Docker, asyncio, aiohttps,
-      gunicorn, nginx, daphne, redis, Djnago, DRF, 
+      gunicorn, nginx, daphne, redis, Django/DRF, 
       and some HTML, JS, CSS...
 - 📫 My Project is www.armauto.am
 
